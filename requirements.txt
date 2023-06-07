@@ -1,0 +1,4 @@
+altair==5.0.1
+pandas==2.0.1
+Pillow==9.4.0
+streamlit==1.23.1
