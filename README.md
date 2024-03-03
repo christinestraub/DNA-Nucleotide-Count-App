@@ -25,11 +25,11 @@ To run the code:
 
 2. Install dependencies
 
-`pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 3. Execute Streamlit app
 
-`streamlit run app.py
+`streamlit run app.py`
 
 4. Enter DNA seqeunce and press Process button
 
