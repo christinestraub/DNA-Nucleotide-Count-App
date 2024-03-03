@@ -42,3 +42,9 @@ To run the code:
 4. Count nucleotides (A, T, C, G)
 5. Visualize counts in chart
 6. Display nucleotide percentage composition
+
+
+
+## Resources
+- Streamlit
+- DNA Sequences
